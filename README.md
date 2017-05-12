@@ -24,4 +24,4 @@ Then you give a path the decrypted file want to save.You need to mention the new
 After you need to provide a password for that decrypted file. Must need to assign the same password that you present for the encrypted file. If you type the incorrect password it's pop up the error message.
 If the password is correct then it shows the success message and ask for the continuity. If you give "Y" will start the same procedure otherwise it's exit from the program.
 
-Finally, After decryption you can get the file(c.txt) look like an original file.
+Finally, After decryption you can get the file look like an original file.
